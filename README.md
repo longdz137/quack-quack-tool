@@ -6,11 +6,11 @@
 
 > Mọi người có hứng thú với con game vô tri này thì đăng ký qua link ủng hộ tui nhé [https://t.me/quackquack_game_bot?start=6hn8Xrp7DK](https://t.me/quackquack_game_bot?start=izRpLB1Vxc)
 
-> Link Tool https://j2c.cc/quack
+> Link Tool https://j2c.cc/toolquackv1
 
 ## Tuyên bố miễn trừ trách nhiệm
 
-> Tui (mhqb365) là chủ sở hữu của những đoạn code trên, tuyên bố sẽ miễn trừ trách nhiệm khi bạn sử dụng những đoạn code này
+> Tui (longngvan) là chủ sở hữu của những đoạn code trên, tuyên bố sẽ miễn trừ trách nhiệm khi bạn sử dụng những đoạn code này
 
 > Bạn có quyền sử dụng nó tùy ý, tuy nhiên xin lưu ý rằng trong mọi trường hợp, khi bạn sử dụng những đoạn code trên cho những mục đích xấu, sửa đổi hoặc những việc tương tự nhằm mục đích gây hại cho những cá nhân, tổ chức khác, bạn sẽ phải chịu trách nhiệm cho những việc đó. Tôi sẽ không phải chịu bất cứ trách nhiệm gì từ việc này
 
@@ -70,4 +70,4 @@
 
 <img src="./images/3.png" />
 
-From https://mhqb365.com with Love ♥ and GoodLuck
+From https://trumsubre.io.vn/ with Love ♥ and GoodLuck
